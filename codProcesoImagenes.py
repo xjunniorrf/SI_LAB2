@@ -1,3 +1,4 @@
+#codigo fuente para la lectura de imagenes
 import numpy as np
 import cv2
 
